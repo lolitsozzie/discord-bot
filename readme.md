@@ -1,6 +1,6 @@
 # NPC discord bot
 ## Description
-This is a discord bot written to run on the 72 virgins discord server in a
+This is a discord bot written to run on a discord server in a
 docker container
 ## Cloning
 Make an empty folder for the repository, and clone it. Once it has been cloned
